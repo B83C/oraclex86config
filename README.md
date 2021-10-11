@@ -10,4 +10,7 @@ Assumed hardware/software:
 Warning: This kernel config has disabled support for initramfs. Enable manually if needed. 
                             ^ ^ ^
         (meaning you need to enable for use in alpine)
+        
+Current config : config
+Kernel version : 5.15.0-rc4+
   
